@@ -1,5 +1,5 @@
 # TicTacToe
-TicTacToe running in console in Java
+TicTacToe running in console in Java:
 
 Player can choose what symbols to use.
 
